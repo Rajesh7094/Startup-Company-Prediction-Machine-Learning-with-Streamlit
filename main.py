@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import subprocess
 
+
 # Function to create a signup form with additional fields
 def signup():
     st.subheader("Sign Up")
@@ -17,14 +18,16 @@ def signup():
     if st.button("Sign Up"):
         if password == confirm_password:
             if username not in df['Username'].values:
-                # Add new user to the Excel file
+                # Add new user to the DataFrame
                 df.loc[len(df.index)] = [username, password, name, age, sex, working_status, company_name]
-                df.to_excel("user_credentials.xlsx", index=False)
+                # Save the DataFrame to an Excel file using xlsxwriter
+                df.to_excel("user_credentials.xlsx", index=False, engine='xlsxwriter')
                 st.success("Signed up successfully! Please log in.")
             else:
                 st.warning("Username already exists. Please choose a different username.")
         else:
             st.warning("Passwords do not match. Please re-enter.")
+
 
 def login():
     st.subheader("Login")
@@ -34,7 +37,7 @@ def login():
     if st.button("Login"):
         if username in df['Username'].values:
             stored_password = str(df.loc[df['Username'] == username, 'Password'].values[0])
-            
+
             # Debug statements
             st.write(f"Entered password: {password}")
             st.write(f"Stored password: {stored_password}")
@@ -47,7 +50,6 @@ def login():
                 st.warning("Incorrect password. Please try again.")
         else:
             st.warning("Username not found. Please sign up.")
-
 
 
 # Load existing user credentials from Excel file or create a new DataFrame if file doesn't exist
