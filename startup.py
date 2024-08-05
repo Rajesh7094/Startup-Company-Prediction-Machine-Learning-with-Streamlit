@@ -18,7 +18,7 @@ st.image('pic6.jpg',caption='Predict Your Future', width= 400)
 st.markdown('</div>', unsafe_allow_html=True)
 
 loaded_model = pickle.load(open(
-    "C:\\Users\\Welcome\\Desktop\\Startup Prjt\\Startup_Prediction-main\\startup_model.sav",
+    "C:\\Users\\Welcome\\Desktop\\Startup-Company-Prediction-Machine-Learning\\startup_model.sav",
     'rb'))
 # Load existing user credentials from Excel file or create a new DataFrame if file doesn't exist
 try:
