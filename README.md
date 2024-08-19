@@ -24,9 +24,8 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 )
 
 ### Startup Prediction Performance
+[![Video Title](https://img.youtube.com/vi/24R0JgVntzI/0.jpg)](https://www.youtube.com/watch?v=24R0JgVntzI)
 
-![demo]
-![Watch the video](https://youtu.be/24R0JgVntzI)
 ### Startup Dashboard Performance 
 
 ![demo](
