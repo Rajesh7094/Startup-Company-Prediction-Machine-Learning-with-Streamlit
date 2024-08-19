@@ -25,7 +25,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### Startup Prediction Performance
 
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd4Mmd3dXQ1cm9rM2lzemx5ajBzcmF3dDU0dDBjcTFpbXU5bDcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qLnwPvnST1VznZyhb8/giphy.gif)
+![demo](<iframe width="560" height="315" src="https://www.youtube.com/embed/24R0JgVntzI?si=fkyBPHXW6Iu3ZjUx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
 ### Startup Dashboard Performance 
 
