@@ -6,7 +6,7 @@
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[Startup-Company-Prediction-Machine-Learning-With-Streamlit](https://github.com/Rajesh7094/Startup_Prediction)
+[Startup-Company-Prediction-Machine-Learning-With-Streamlit](https://github.com/Rajesh7094/Startup-Company-Prediction-Machine-Learning-with-Streamlit.git)
 
 ## Project Overview:
 
