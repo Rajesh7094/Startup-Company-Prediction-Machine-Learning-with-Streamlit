@@ -44,7 +44,7 @@ Scikit-learn
 * Clone the repository
 
 ```
-$ git clone https://github.com/Hirthick6/Startup-Company-Machine-Learning.git
+$ git clone https://github.com/Rajesh7094/Startup-Company-Prediction-Machine-Learning-with-Streamlit.git
 ```
 * Setup Virtual Environment
 
