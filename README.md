@@ -1,6 +1,6 @@
 # Startup-Company-Predicting-Machine-Learning with Streamlit 
 
-"Startup-Company-Prediction-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company will Succeed or not, a Python library for creating web applications, to showcase or deploy machine learning models.
+"Startup-Company-Prediction-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company will Succeed or not, a Python library for creating web applications, to showcase or deploy machine learning models.In this we use SVC(Support Vector Classifier)
 
 ## Demo WebApp
 
@@ -70,6 +70,6 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com rajesherode2004@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
 
