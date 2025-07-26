@@ -2,12 +2,6 @@
 
 "Startup-Company-Prediction-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company will Succeed or not, a Python library for creating web applications, to showcase or deploy machine learning models.In this we use SVC(Support Vector Classifier)
 
-## Demo WebApp
-
-This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
-
-[Startup-Company-Prediction-Machine-Learning-With-Streamlit](https://github.com/Rajesh7094/Startup-Company-Prediction-Machine-Learning-with-Streamlit.git)
-
 ## Project Overview:
 
 #### Mr. Rajesh have successfully completed a groundbreaking project over , focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
