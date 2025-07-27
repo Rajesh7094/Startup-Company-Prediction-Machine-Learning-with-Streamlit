@@ -85,4 +85,3 @@ if uploaded_file is not None:
             st.plotly_chart(plot)
         except Exception as e:
             print(e)
-

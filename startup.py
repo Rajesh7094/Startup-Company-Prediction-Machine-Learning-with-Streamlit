@@ -168,7 +168,7 @@ def main():
         'online music': 116, 'media': 117, 'cloud computing': 118
     }
     d3 = {
-        'No': 1, 'Yes': 2 
+        'No': 1, 'Yes': 2
     }
 
     d4 = {
@@ -375,4 +375,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
