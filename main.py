@@ -21,7 +21,7 @@ def signup():
                 # Add new user to the DataFrame
                 df.loc[len(df.index)] = [username, password, name, age, sex, working_status, company_name]
                 # Save the DataFrame to an Excel file using xlsxwriter
-                df.to_excel("user_credentials.xlsx", index=False, engine='xlsxwriter')
+                df.to_excel("user_credentials.xlsx", index=False, engine='openpyxl')
                 st.success("Signed up successfully! Please log in.")
             else:
                 st.warning("Username already exists. Please choose a different username.")
