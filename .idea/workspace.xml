@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27217f2b-06db-49e6-b4be-3522935a3061" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Startup-Company-Prediction-Machine-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Startup-Company-Prediction-Machine-Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="27217f2b-06db-49e6-b4be-3522935a3061" name="Changes" comment="App Updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1753541560825</updated>
     </task>
+    <task id="LOCAL-00001" summary="App Updated">
+      <option name="closed" value="true" />
+      <created>1753609247677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753609247678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="App Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="App Updated" />
   </component>
 </project>
